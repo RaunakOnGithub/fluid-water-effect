@@ -2,7 +2,10 @@
 
 An interactive, GPU-accelerated water ripple simulation using
 Three.js and custom GLSL shaders.
+[![image.png](https://i.postimg.cc/6QrMT9YR/image.png)](https://postimg.cc/R307DzrV)
 
+
+live link : https://fluid-water-effect.vercel.app/
 ## ✨ Features
 - Real-time ripple interaction
 - Mobile optimized performance
@@ -26,3 +29,4 @@ Three.js and custom GLSL shaders.
 ## 🚀 Run Locally
 ```bash
 npx serve
+
